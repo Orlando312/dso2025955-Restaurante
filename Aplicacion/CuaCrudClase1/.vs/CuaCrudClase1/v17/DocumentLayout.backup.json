@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\pagina maestra\\paginamaestra.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\pagina maestra\\paginamaestra.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\interfaces\\iniciosession\\iniciosesion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\interfaces\\iniciosession\\iniciosesion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\pagina maestra\\paginamaestra.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\pagina maestra\\paginamaestra.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\interfaces\\iniciosession\\iniciosesion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\interfaces\\iniciosession\\iniciosesion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\interfaces\\usuario\\registrousuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\interfaces\\usuario\\registrousuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|c:\\users\\edizon\\source\\repos\\cuacrudclase1\\cuacrudclase1\\interfaces\\productos\\registrarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\interfaces\\productos\\registrarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\controladoras\\controladoraproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\controladoras\\controladoraproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\interfaces\\usuario\\registrousuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\interfaces\\usuario\\registrousuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\interfaces\\productos\\editarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\interfaces\\productos\\editarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|c:\\users\\edizon\\source\\repos\\cuacrudclase1\\cuacrudclase1\\interfaces\\productos\\editarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\interfaces\\productos\\editarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|c:\\users\\edizon\\source\\repos\\cuacrudclase1\\cuacrudclase1\\pagina maestra\\paginamaestra.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\pagina maestra\\paginamaestra.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\interfaces\\productos\\registrarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\interfaces\\productos\\registrarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\entidades\\eproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\entidades\\eproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\interfaces\\productos\\gestionproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\interfaces\\productos\\gestionproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\interfaces\\productos\\ordenarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\interfaces\\productos\\ordenarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\interfaces\\productos\\gestionproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\interfaces\\productos\\gestionproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\controladoras\\controladorausuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\controladoras\\controladorausuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\acceso a base de datos\\dbquality.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\acceso a base de datos\\dbquality.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\cuacrudclase1\\entidades\\eusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBF7261-5021-487E-A420-5578E9BC493F}|CuaCrudClase1\\CuaCrudClase1.csproj|solutionrelative:cuacrudclase1\\entidades\\eusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InicioSesion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\InicioSession\\InicioSesion.aspx.cs",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Interfaces\\InicioSession\\InicioSesion.aspx.cs",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\InicioSession\\InicioSesion.aspx.cs",
+              "RelativeToolTip": "CuaCrudClase1\\Interfaces\\InicioSession\\InicioSesion.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:30:32.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControladoraProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Controladoras\\ControladoraProductos.cs",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Controladoras\\ControladoraProductos.cs",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Controladoras\\ControladoraProductos.cs",
+              "RelativeToolTip": "CuaCrudClase1\\Controladoras\\ControladoraProductos.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwDwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:28:53.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrarProductos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Productos\\RegistrarProductos.aspx.cs",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Interfaces\\Productos\\RegistrarProductos.aspx.cs",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Productos\\RegistrarProductos.aspx.cs",
+              "RelativeToolTip": "CuaCrudClase1\\Interfaces\\Productos\\RegistrarProductos.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:27:43.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistroUsuario.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Usuario\\RegistroUsuario.aspx.cs",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Interfaces\\Usuario\\RegistroUsuario.aspx.cs",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Usuario\\RegistroUsuario.aspx.cs",
+              "RelativeToolTip": "CuaCrudClase1\\Interfaces\\Usuario\\RegistroUsuario.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:55:15.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaginaMaestra.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Pagina maestra\\PaginaMaestra.Master.cs",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Pagina maestra\\PaginaMaestra.Master.cs",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Pagina maestra\\PaginaMaestra.Master.cs",
+              "RelativeToolTip": "CuaCrudClase1\\Pagina maestra\\PaginaMaestra.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:39:41.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaginaMaestra.Master",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Pagina maestra\\PaginaMaestra.Master",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Pagina maestra\\PaginaMaestra.Master",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Pagina maestra\\PaginaMaestra.Master",
+              "RelativeToolTip": "CuaCrudClase1\\Pagina maestra\\PaginaMaestra.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-20T10:07:06.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InicioSesion.aspx",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\InicioSession\\InicioSesion.aspx",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Interfaces\\InicioSession\\InicioSesion.aspx",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\InicioSession\\InicioSesion.aspx",
+              "RelativeToolTip": "CuaCrudClase1\\Interfaces\\InicioSession\\InicioSesion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-20T10:19:00.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistroUsuario.aspx",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Usuario\\RegistroUsuario.aspx",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Interfaces\\Usuario\\RegistroUsuario.aspx",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Usuario\\RegistroUsuario.aspx",
+              "RelativeToolTip": "CuaCrudClase1\\Interfaces\\Usuario\\RegistroUsuario.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-20T10:20:32.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditarProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Productos\\EditarProductos.aspx",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Interfaces\\Productos\\EditarProductos.aspx",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Productos\\EditarProductos.aspx",
+              "RelativeToolTip": "CuaCrudClase1\\Interfaces\\Productos\\EditarProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-20T10:27:08.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaginaMaestra.Master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Pagina maestra\\PaginaMaestra.Master.designer.cs",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Pagina maestra\\PaginaMaestra.Master.designer.cs",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Pagina maestra\\PaginaMaestra.Master.designer.cs",
+              "RelativeToolTip": "CuaCrudClase1\\Pagina maestra\\PaginaMaestra.Master.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:58:50.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditarProductos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Productos\\EditarProductos.aspx.cs",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Interfaces\\Productos\\EditarProductos.aspx.cs",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Productos\\EditarProductos.aspx.cs",
+              "RelativeToolTip": "CuaCrudClase1\\Interfaces\\Productos\\EditarProductos.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:32:55.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Entidades\\EProductos.cs",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Entidades\\EProductos.cs",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Entidades\\EProductos.cs",
+              "RelativeToolTip": "CuaCrudClase1\\Entidades\\EProductos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:28:11.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrarProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Productos\\RegistrarProductos.aspx",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Interfaces\\Productos\\RegistrarProductos.aspx",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Productos\\RegistrarProductos.aspx",
+              "RelativeToolTip": "CuaCrudClase1\\Interfaces\\Productos\\RegistrarProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-20T10:27:28.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GestionProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Productos\\GestionProductos.aspx",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Interfaces\\Productos\\GestionProductos.aspx",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Productos\\GestionProductos.aspx",
+              "RelativeToolTip": "CuaCrudClase1\\Interfaces\\Productos\\GestionProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-20T10:26:47.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrdenarProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Productos\\OrdenarProductos.aspx",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Interfaces\\Productos\\OrdenarProductos.aspx",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Productos\\OrdenarProductos.aspx",
+              "RelativeToolTip": "CuaCrudClase1\\Interfaces\\Productos\\OrdenarProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-20T10:27:46.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ControladoraUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Controladoras\\ControladoraUsuarios.cs",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Controladoras\\ControladoraUsuarios.cs",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Controladoras\\ControladoraUsuarios.cs",
+              "RelativeToolTip": "CuaCrudClase1\\Controladoras\\ControladoraUsuarios.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwG0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:28:40.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GestionProductos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Productos\\GestionProductos.aspx.cs",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Interfaces\\Productos\\GestionProductos.aspx.cs",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Interfaces\\Productos\\GestionProductos.aspx.cs",
+              "RelativeToolTip": "CuaCrudClase1\\Interfaces\\Productos\\GestionProductos.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:29:44.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DBQuality.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Acceso a base de datos\\DBQuality.edmx",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Acceso a base de datos\\DBQuality.edmx",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Acceso a base de datos\\DBQuality.edmx [Diagram1]",
+              "RelativeToolTip": "CuaCrudClase1\\Acceso a base de datos\\DBQuality.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-20T10:43:38.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Entidades\\EUsuarios.cs",
+              "RelativeDocumentMoniker": "CuaCrudClase1\\Entidades\\EUsuarios.cs",
+              "ToolTip": "C:\\Users\\Edizon\\source\\repos\\CuaCrudClase1\\CuaCrudClase1\\Entidades\\EUsuarios.cs",
+              "RelativeToolTip": "CuaCrudClase1\\Entidades\\EUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:28:24.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
