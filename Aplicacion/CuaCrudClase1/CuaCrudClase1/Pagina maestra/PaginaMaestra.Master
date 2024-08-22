@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaMaestra.master.cs" Inherits="CuaCrudClase1.Pagina_maestra.PaginaMaestra" %>
+
+<!DOCTYPE html>
+
+<html lang="es">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title>Sistema de Productos</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container-fluid">
+            <div class="row align-items-center" style="height: 60px;">
+                <div class="col-5">
+                    <h1 class="h3">Sistema de Productos</h1>
+                </div>
+                <div class="col-5 text-center">
+                    <asp:LinkButton runat="server" OnClick="VerProductos_OnClick" CssClass="btn btn-primary">Productos</asp:LinkButton>
+                </div>
+                <div class="col-2 text-right">
+                    <asp:Label runat="server" ID="lblNombre" CssClass="mr-2"></asp:Label>
+                    <asp:Label runat="server" ID="lblCuenta" CssClass="mr-2"></asp:Label>
+                    <asp:Label runat="server" ID="lblEstado" CssClass="mr-2"></asp:Label>
+                    <asp:LinkButton runat="server" OnClick="IniciarSesion_OnClick" CssClass="btn btn-secondary">Iniciar Sesión</asp:LinkButton>
+                </div>
+            </div>
+        </div>
+        <div class="container mt-4">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
